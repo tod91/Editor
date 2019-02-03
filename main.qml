@@ -6,4 +6,7 @@ Window {
     width: 640
     height: 480
     title: qsTr("Hello World")
+    color: "#4A4A4A"
+
+
 }
